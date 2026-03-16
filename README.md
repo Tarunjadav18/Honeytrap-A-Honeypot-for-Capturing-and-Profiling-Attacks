@@ -1,4 +1,4 @@
-# Honeypot ELK Attack Monitoring System
+# Honeytrap: A Honeypot for Capturing and Profiling Attacks
 
 ## Project Overview
 This project implements a honeypot-based cyber attack monitoring system using **Cowrie Honeypot** and the **ELK Stack (Elasticsearch, Logstash/Filebeat, Kibana)**.
