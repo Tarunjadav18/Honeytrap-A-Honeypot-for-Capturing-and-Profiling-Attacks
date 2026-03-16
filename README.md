@@ -1,2 +1,37 @@
-# honeypot-elk-attack-monitoring
-Honeypot-based cyber attack monitoring using Cowrie and ELK Stack with real-time visualization of attacker activity.
+# Honeypot ELK Attack Monitoring System
+
+## Project Overview
+This project implements a honeypot-based cyber attack monitoring system using **Cowrie Honeypot** and the **ELK Stack (Elasticsearch, Logstash/Filebeat, Kibana)**.
+
+The system captures attacker interactions, forwards logs to Elasticsearch, and visualizes attack patterns in Kibana dashboards.
+
+---
+
+## Architecture
+
+![Architecture](Honeypot attack flow architecture diagram.png)
+
+---
+
+## Technologies Used
+
+- Cowrie Honeypot
+- Filebeat
+- Elasticsearch
+- Kibana
+- Python
+- Linux (Ubuntu)
+
+---
+
+## Features
+
+- Real-time attack monitoring
+- Logging of attacker commands and login attempts
+- Visualization of attack activity
+- Detection of attacker IP addresses
+- Dashboard-based security monitoring
+
+---
+
+## Project Structure
